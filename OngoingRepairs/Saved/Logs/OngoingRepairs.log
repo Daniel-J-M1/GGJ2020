@@ -924,3 +924,374 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.02-14.14.09:713][ 95]LogSavePackage: Moving 'M:/Game Jam/GGJ2020/GGJ2020/OngoingRepairs/Saved/Houses1622EAD0842776942638EFBBF548CB6F0.tmp' to 'M:/Game Jam/GGJ2020/GGJ2020/OngoingRepairs/Content/TwinStickBP/Houses1.uasset'
 [2020.02.02-14.14.09:739][ 95]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TwinStickBP/HousesTexture" FILE="M:/Game Jam/GGJ2020/GGJ2020/OngoingRepairs/Content/TwinStickBP/HousesTexture.uasset" SILENT=true
 [2020.02.02-14.14.09:905][ 95]LogSavePackage: Moving 'M:/Game Jam/GGJ2020/GGJ2020/OngoingRepairs/Saved/HousesTextureE1DCD5774F36B2F122E1CE8510B6A0E3.tmp' to 'M:/Game Jam/GGJ2020/GGJ2020/OngoingRepairs/Content/TwinStickBP/HousesTexture.uasset'
+[2020.02.02-14.14.40:979][259]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-14.14.42:215][392]LogAIModule: Creating AISystem for world MainMenu
+[2020.02.02-14.14.42:217][392]LogAssetEditorManager: Opening Asset editor for World /Game/MainMenu.MainMenu
+[2020.02.02-14.14.42:238][392]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2020.02.02-14.14.42:239][392]Cmd: MAP LOAD FILE="M:/Game Jam/GGJ2020/GGJ2020/OngoingRepairs/Content/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.02-14.14.42:239][392]LightingResults: New page: Lighting Build
+[2020.02.02-14.14.42:240][392]LoadErrors: New page: Loading map: MainMenu.umap
+[2020.02.02-14.14.42:241][392]MapCheck: New page: Map Check
+[2020.02.02-14.14.42:241][392]LightingResults: New page: Lighting Build
+[2020.02.02-14.14.42:265][392]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2020.02.02-14.14.42:269][392]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.02-14.14.42:292][392]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2020.02.02-14.14.42:312][392]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.02-14.14.42:312][392]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.462ms to complete.
+[2020.02.02-14.14.42:312][392]LogFileHelpers: Loading map 'MainMenu' took 0.073
+[2020.02.02-14.14.53:133][671]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-14.14.53:248][685]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.02-14.14.53:263][685]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.02.02-14.14.53:263][685]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.02-14.14.53:263][685]PIE: New page: PIE session: MainMenu (2 Feb 2020 14:14:53)
+[2020.02.02-14.14.53:263][685]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMenu
+[2020.02.02-14.14.53:264][685]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002067s)
+[2020.02.02-14.14.53:265][685]LogAIModule: Creating AISystem for world MainMenu
+[2020.02.02-14.14.53:265][685]LogPlayLevel: PIE: World Init took: (0.000427s)
+[2020.02.02-14.14.53:265][685]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenu.MainMenu to /Game/UEDPIE_0_MainMenu.MainMenu (0.002588s)
+[2020.02.02-14.14.53:289][685]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2020.02.02-14.14.53:301][685]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.02-14.14.53:316][685]LogInit: FAudioDevice initialized.
+[2020.02.02-14.14.53:350][685]LogLoad: Game class is 'TwinStickGameMode_C'
+[2020.02.02-14.14.53:352][685]LogWorld: Bringing World /Game/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2020.02.02-14.14.53
+[2020.02.02-14.14.53:352][685]LogWorld: Bringing up level for play took: 0.000590
+[2020.02.02-14.14.53:369][685]PIE: Play in editor start time for /Game/UEDPIE_0_MainMenu 0.124
+[2020.02.02-14.14.53:370][685]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.02.02-14.14.54:236][785]LogNet: Browse: /Game/TwinStickBP/Maps/Level1
+[2020.02.02-14.14.54:236][785]LogLoad: LoadMap: /Game/TwinStickBP/Maps/Level1
+[2020.02.02-14.14.54:259][785]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2020.02.02-14.14.54:445][785]LogAIModule: Creating AISystem for world Level1
+[2020.02.02-14.14.54:445][785]LogLoad: Game class is 'TwinStickGameMode_C'
+[2020.02.02-14.14.54:448][785]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.02.02-14.14.54
+[2020.02.02-14.14.54:448][785]LogWorld: Bringing up level for play took: 0.003278
+[2020.02.02-14.14.54:449][785]LogLoad: Took 0.214061 seconds to LoadMap(/Game/TwinStickBP/Maps/Level1)
+[2020.02.02-14.14.57:260][121]LogBlueprintUserMessages: [Level1_C_0] Hello
+[2020.02.02-14.14.57:260][121]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-14.14.57:261][121]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.02-14.14.58:061][217]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-14.14.58:153][228]LogNet: Browse: /Game/MainMenu
+[2020.02.02-14.14.58:153][228]LogLoad: LoadMap: /Game/MainMenu
+[2020.02.02-14.14.58:178][228]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2020.02.02-14.14.58:178][228]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMenu
+[2020.02.02-14.14.58:179][228]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001236s)
+[2020.02.02-14.14.58:180][228]LogAIModule: Creating AISystem for world MainMenu
+[2020.02.02-14.14.58:180][228]LogPlayLevel: PIE: World Init took: (0.000535s)
+[2020.02.02-14.14.58:180][228]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenu.MainMenu to /Game/UEDPIE_0_MainMenu.MainMenu (0.001883s)
+[2020.02.02-14.14.58:180][228]LogLoad: Game class is 'TwinStickGameMode_C'
+[2020.02.02-14.14.58:181][228]LogWorld: Bringing World /Game/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2020.02.02-14.14.58
+[2020.02.02-14.14.58:182][228]LogWorld: Bringing up level for play took: 0.000472
+[2020.02.02-14.14.58:182][228]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.02.02-14.14.58:184][228]LogLoad: Took 0.030407 seconds to LoadMap(/Game/UEDPIE_0_MainMenu)
+[2020.02.02-14.14.58:696][289]LogNet: Browse: /Game/TwinStickBP/Maps/Level1
+[2020.02.02-14.14.58:696][289]LogLoad: LoadMap: /Game/TwinStickBP/Maps/Level1
+[2020.02.02-14.14.58:719][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2020.02.02-14.14.58:776][289]LogAIModule: Creating AISystem for world Level1
+[2020.02.02-14.14.58:776][289]LogLoad: Game class is 'TwinStickGameMode_C'
+[2020.02.02-14.14.58:780][289]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.02.02-14.14.58
+[2020.02.02-14.14.58:780][289]LogWorld: Bringing up level for play took: 0.002999
+[2020.02.02-14.14.58:782][289]LogLoad: Took 0.085228 seconds to LoadMap(/Game/TwinStickBP/Maps/Level1)
+[2020.02.02-14.14.59:854][417]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.02.02-14.14.59:855][417]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-14.14.59:883][417]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.02-14.14.59:883][417]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.02.02-14.14.59:916][417]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-14.14.59:919][417]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2020.02.02-14.14.59:955][421]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2020.02.02-14.15.00:830][526]LogEditorViewport: Clicking Background
+[2020.02.02-14.15.01:707][631]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-14.15.07:412][309]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-14.15.22:362][ 95]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-14.15.34:824][579]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-14.15.34:882][586]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.02-14.15.34:892][586]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.02.02-14.15.34:893][586]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.02-14.15.34:893][586]PIE: New page: PIE session: MainMenu (2 Feb 2020 14:15:34)
+[2020.02.02-14.15.34:893][586]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMenu
+[2020.02.02-14.15.34:896][586]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003257s)
+[2020.02.02-14.15.34:897][586]LogAIModule: Creating AISystem for world MainMenu
+[2020.02.02-14.15.34:897][586]LogPlayLevel: PIE: World Init took: (0.000551s)
+[2020.02.02-14.15.34:897][586]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenu.MainMenu to /Game/UEDPIE_0_MainMenu.MainMenu (0.003925s)
+[2020.02.02-14.15.34:923][586]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2020.02.02-14.15.34:935][586]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.02-14.15.34:949][586]LogInit: FAudioDevice initialized.
+[2020.02.02-14.15.34:981][586]LogLoad: Game class is 'TwinStickGameMode_C'
+[2020.02.02-14.15.34:983][586]LogWorld: Bringing World /Game/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2020.02.02-14.15.34
+[2020.02.02-14.15.34:983][586]LogWorld: Bringing up level for play took: 0.000335
+[2020.02.02-14.15.34:997][586]PIE: Play in editor start time for /Game/UEDPIE_0_MainMenu -0.248
+[2020.02.02-14.15.34:997][586]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.02.02-14.15.36:216][730]LogNet: Browse: /Game/TwinStickBP/Maps/Level1
+[2020.02.02-14.15.36:217][730]LogLoad: LoadMap: /Game/TwinStickBP/Maps/Level1
+[2020.02.02-14.15.36:239][730]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2020.02.02-14.15.36:376][730]LogAIModule: Creating AISystem for world Level1
+[2020.02.02-14.15.36:376][730]LogLoad: Game class is 'TwinStickGameMode_C'
+[2020.02.02-14.15.36:380][730]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.02.02-14.15.36
+[2020.02.02-14.15.36:380][730]LogWorld: Bringing up level for play took: 0.003091
+[2020.02.02-14.15.36:381][730]LogLoad: Took 0.164600 seconds to LoadMap(/Game/TwinStickBP/Maps/Level1)
+[2020.02.02-14.15.39:478][101]LogBlueprintUserMessages: [Level1_C_0] Hello
+[2020.02.02-14.15.39:478][101]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-14.15.39:479][101]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.02-14.15.40:204][188]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-14.15.40:264][195]LogNet: Browse: /Game/MainMenu
+[2020.02.02-14.15.40:264][195]LogLoad: LoadMap: /Game/MainMenu
+[2020.02.02-14.15.40:287][195]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2020.02.02-14.15.40:287][195]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMenu
+[2020.02.02-14.15.40:291][195]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003935s)
+[2020.02.02-14.15.40:292][195]LogAIModule: Creating AISystem for world MainMenu
+[2020.02.02-14.15.40:292][195]LogPlayLevel: PIE: World Init took: (0.000605s)
+[2020.02.02-14.15.40:292][195]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenu.MainMenu to /Game/UEDPIE_0_MainMenu.MainMenu (0.004722s)
+[2020.02.02-14.15.40:292][195]LogLoad: Game class is 'TwinStickGameMode_C'
+[2020.02.02-14.15.40:293][195]LogWorld: Bringing World /Game/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2020.02.02-14.15.40
+[2020.02.02-14.15.40:293][195]LogWorld: Bringing up level for play took: 0.000507
+[2020.02.02-14.15.40:294][195]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.02.02-14.15.40:296][195]LogLoad: Took 0.032962 seconds to LoadMap(/Game/UEDPIE_0_MainMenu)
+[2020.02.02-14.15.40:967][275]LogNet: Browse: /Game/TwinStickBP/Maps/Level1
+[2020.02.02-14.15.40:967][275]LogLoad: LoadMap: /Game/TwinStickBP/Maps/Level1
+[2020.02.02-14.15.40:990][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2020.02.02-14.15.41:048][275]LogAIModule: Creating AISystem for world Level1
+[2020.02.02-14.15.41:048][275]LogLoad: Game class is 'TwinStickGameMode_C'
+[2020.02.02-14.15.41:052][275]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.02.02-14.15.41
+[2020.02.02-14.15.41:052][275]LogWorld: Bringing up level for play took: 0.003545
+[2020.02.02-14.15.41:054][275]LogLoad: Took 0.087532 seconds to LoadMap(/Game/TwinStickBP/Maps/Level1)
+[2020.02.02-14.15.43:433][560]LogBlueprintUserMessages: [Level1_C_0] Hello
+[2020.02.02-14.15.43:433][560]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-14.15.43:434][560]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.02-14.15.44:200][652]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-14.15.44:276][661]LogNet: Browse: /Game/MainMenu
+[2020.02.02-14.15.44:276][661]LogLoad: LoadMap: /Game/MainMenu
+[2020.02.02-14.15.44:299][661]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.02.02-14.15.44:299][661]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMenu
+[2020.02.02-14.15.44:301][661]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001573s)
+[2020.02.02-14.15.44:301][661]LogAIModule: Creating AISystem for world MainMenu
+[2020.02.02-14.15.44:301][661]LogPlayLevel: PIE: World Init took: (0.000387s)
+[2020.02.02-14.15.44:301][661]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenu.MainMenu to /Game/UEDPIE_0_MainMenu.MainMenu (0.002054s)
+[2020.02.02-14.15.44:302][661]LogLoad: Game class is 'TwinStickGameMode_C'
+[2020.02.02-14.15.44:303][661]LogWorld: Bringing World /Game/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2020.02.02-14.15.44
+[2020.02.02-14.15.44:303][661]LogWorld: Bringing up level for play took: 0.000524
+[2020.02.02-14.15.44:304][661]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.02.02-14.15.44:305][661]LogLoad: Took 0.029447 seconds to LoadMap(/Game/UEDPIE_0_MainMenu)
+[2020.02.02-14.16.08:581][571]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-14.16.08:581][571]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.02.02-14.16.08:609][571]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.02-14.16.08:609][571]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.02.02-14.16.08:638][571]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-14.16.08:641][571]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2020.02.02-14.16.08:682][575]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.02.02-14.16.13:670][170]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2020.02.02-14.16.14:502][259]Cmd: DELETE
+[2020.02.02-14.16.14:502][259]Cmd: ACTOR DELETE
+[2020.02.02-14.16.14:503][259]LogEditorActor: Deleted Actor: CameraActor
+[2020.02.02-14.16.14:551][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.02.02-14.16.14:551][259]LogEditorActor: Deleted 1 Actors (0.049 secs)
+[2020.02.02-14.16.22:636][223]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-14.16.22:718][233]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.02-14.16.22:728][233]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.02.02-14.16.22:728][233]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.02-14.16.22:728][233]PIE: New page: PIE session: MainMenu (2 Feb 2020 14:16:22)
+[2020.02.02-14.16.22:728][233]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMenu
+[2020.02.02-14.16.22:731][233]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002289s)
+[2020.02.02-14.16.22:731][233]LogAIModule: Creating AISystem for world MainMenu
+[2020.02.02-14.16.22:731][233]LogPlayLevel: PIE: World Init took: (0.000549s)
+[2020.02.02-14.16.22:731][233]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenu.MainMenu to /Game/UEDPIE_0_MainMenu.MainMenu (0.002963s)
+[2020.02.02-14.16.22:754][233]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2020.02.02-14.16.22:765][233]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.02-14.16.22:780][233]LogInit: FAudioDevice initialized.
+[2020.02.02-14.16.22:813][233]LogLoad: Game class is 'TwinStickGameMode_C'
+[2020.02.02-14.16.22:814][233]LogWorld: Bringing World /Game/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2020.02.02-14.16.22
+[2020.02.02-14.16.22:815][233]LogWorld: Bringing up level for play took: 0.000346
+[2020.02.02-14.16.22:828][233]PIE: Play in editor start time for /Game/UEDPIE_0_MainMenu -0.417
+[2020.02.02-14.16.22:828][233]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.02.02-14.16.24:811][469]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.02.02-14.16.24:811][469]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-14.16.24:842][469]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.02-14.16.24:842][469]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.02.02-14.16.24:867][469]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-14.16.24:870][469]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.02.02-14.16.24:912][474]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.02.02-14.16.56:101][199]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.02-14.16.58:514][486]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-14.16.58:588][495]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.02-14.16.58:600][495]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.02.02-14.16.58:600][495]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.02-14.16.58:600][495]PIE: New page: PIE session: MainMenu (2 Feb 2020 14:16:58)
+[2020.02.02-14.16.58:600][495]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMenu
+[2020.02.02-14.16.58:602][495]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001897s)
+[2020.02.02-14.16.58:602][495]LogAIModule: Creating AISystem for world MainMenu
+[2020.02.02-14.16.58:602][495]LogPlayLevel: PIE: World Init took: (0.000417s)
+[2020.02.02-14.16.58:602][495]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenu.MainMenu to /Game/UEDPIE_0_MainMenu.MainMenu (0.002403s)
+[2020.02.02-14.16.58:626][495]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2020.02.02-14.16.58:637][495]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.02-14.16.58:652][495]LogInit: FAudioDevice initialized.
+[2020.02.02-14.16.58:680][495]LogLoad: Game class is 'TwinStickGameMode_C'
+[2020.02.02-14.16.58:682][495]LogWorld: Bringing World /Game/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2020.02.02-14.16.58
+[2020.02.02-14.16.58:682][495]LogWorld: Bringing up level for play took: 0.000345
+[2020.02.02-14.16.58:695][495]PIE: Play in editor start time for /Game/UEDPIE_0_MainMenu -0.55
+[2020.02.02-14.16.58:695][495]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.02.02-14.16.59:435][578]LogNet: Browse: /Game/TwinStickBP/Maps/Level1
+[2020.02.02-14.16.59:435][578]LogLoad: LoadMap: /Game/TwinStickBP/Maps/Level1
+[2020.02.02-14.16.59:458][578]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2020.02.02-14.16.59:603][578]LogAIModule: Creating AISystem for world Level1
+[2020.02.02-14.16.59:603][578]LogLoad: Game class is 'TwinStickGameMode_C'
+[2020.02.02-14.16.59:607][578]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.02.02-14.16.59
+[2020.02.02-14.16.59:607][578]LogWorld: Bringing up level for play took: 0.002957
+[2020.02.02-14.16.59:608][578]LogLoad: Took 0.172959 seconds to LoadMap(/Game/TwinStickBP/Maps/Level1)
+[2020.02.02-14.17.02:304][901]LogBlueprintUserMessages: [Level1_C_0] Hello
+[2020.02.02-14.17.02:304][901]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-14.17.02:305][901]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.02-14.17.02:771][957]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-14.17.02:848][966]LogNet: Browse: /Game/MainMenu
+[2020.02.02-14.17.02:849][966]LogLoad: LoadMap: /Game/MainMenu
+[2020.02.02-14.17.02:874][966]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2020.02.02-14.17.02:874][966]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMenu
+[2020.02.02-14.17.02:876][966]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001985s)
+[2020.02.02-14.17.02:876][966]LogAIModule: Creating AISystem for world MainMenu
+[2020.02.02-14.17.02:876][966]LogPlayLevel: PIE: World Init took: (0.000414s)
+[2020.02.02-14.17.02:876][966]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenu.MainMenu to /Game/UEDPIE_0_MainMenu.MainMenu (0.002569s)
+[2020.02.02-14.17.02:877][966]LogLoad: Game class is 'TwinStickGameMode_C'
+[2020.02.02-14.17.02:878][966]LogWorld: Bringing World /Game/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2020.02.02-14.17.02
+[2020.02.02-14.17.02:878][966]LogWorld: Bringing up level for play took: 0.000486
+[2020.02.02-14.17.02:878][966]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.02.02-14.17.02:880][966]LogLoad: Took 0.031709 seconds to LoadMap(/Game/UEDPIE_0_MainMenu)
+[2020.02.02-14.17.03:360][ 23]LogNet: Browse: /Game/TwinStickBP/Maps/Level1
+[2020.02.02-14.17.03:360][ 23]LogLoad: LoadMap: /Game/TwinStickBP/Maps/Level1
+[2020.02.02-14.17.03:382][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2020.02.02-14.17.03:445][ 23]LogAIModule: Creating AISystem for world Level1
+[2020.02.02-14.17.03:445][ 23]LogLoad: Game class is 'TwinStickGameMode_C'
+[2020.02.02-14.17.03:449][ 23]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.02.02-14.17.03
+[2020.02.02-14.17.03:449][ 23]LogWorld: Bringing up level for play took: 0.002911
+[2020.02.02-14.17.03:450][ 23]LogLoad: Took 0.090114 seconds to LoadMap(/Game/TwinStickBP/Maps/Level1)
+[2020.02.02-14.17.04:438][141]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.02.02-14.17.04:438][141]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-14.17.04:468][141]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.02-14.17.04:468][141]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.02.02-14.17.04:510][141]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-14.17.04:513][141]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2020.02.02-14.17.04:544][144]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.02.02-14.17.07:902][540]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2020.02.02-14.17.13:820][217]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-14.17.19:067][829]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-14.17.22:442][189]LogActorFactory: Actor Factory created TheCar_pCube1
+[2020.02.02-14.17.22:964][250]LogActorFactory: Actor Factory created TheCar_pCube1
+[2020.02.02-14.17.24:391][404]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-14.17.29:316][953]LogActorFactory: Actor Factory created TheCar_pasted__pasted__pasted__pTorus1
+[2020.02.02-14.17.29:498][974]LogActorFactory: Actor Factory created TheCar_pasted__pasted__pasted__pTorus1
+[2020.02.02-14.17.30:076][ 36]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-14.17.30:198][ 49]LogActorFactory: Actor Factory created TheCar_pasted__pasted__pTorus1
+[2020.02.02-14.17.30:379][ 70]LogActorFactory: Actor Factory created TheCar_pasted__pasted__pTorus1
+[2020.02.02-14.17.30:800][114]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-14.17.30:939][128]LogActorFactory: Actor Factory created TheCar_pasted__pasted__pTorus1_1
+[2020.02.02-14.17.31:066][142]LogActorFactory: Actor Factory created TheCar_pasted__pasted__pTorus1_1
+[2020.02.02-14.17.31:507][188]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-14.17.31:639][202]LogActorFactory: Actor Factory created TheCar_pasted__pTorus1
+[2020.02.02-14.17.31:815][222]LogActorFactory: Actor Factory created TheCar_pasted__pTorus1
+[2020.02.02-14.17.33:707][443]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-14.17.42:450][474]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.02.02-14.17.44:956][764]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-14.17.48:383][163]EditorErrors: New page: Actor attachment
+[2020.02.02-14.17.51:002][476]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TheCar_pCube1)
+[2020.02.02-14.17.59:726][466]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-14.17.59:810][476]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.02-14.17.59:820][476]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.02.02-14.17.59:820][476]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.02-14.17.59:821][476]PIE: New page: PIE session: MainMenu (2 Feb 2020 14:17:59)
+[2020.02.02-14.17.59:821][476]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMenu
+[2020.02.02-14.17.59:823][476]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002172s)
+[2020.02.02-14.17.59:823][476]LogAIModule: Creating AISystem for world MainMenu
+[2020.02.02-14.17.59:823][476]LogPlayLevel: PIE: World Init took: (0.000443s)
+[2020.02.02-14.17.59:823][476]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenu.MainMenu to /Game/UEDPIE_0_MainMenu.MainMenu (0.002702s)
+[2020.02.02-14.17.59:847][476]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2020.02.02-14.17.59:859][476]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.02-14.17.59:874][476]LogInit: FAudioDevice initialized.
+[2020.02.02-14.17.59:903][476]LogLoad: Game class is 'TwinStickGameMode_C'
+[2020.02.02-14.17.59:905][476]LogWorld: Bringing World /Game/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2020.02.02-14.17.59
+[2020.02.02-14.17.59:906][476]LogWorld: Bringing up level for play took: 0.001155
+[2020.02.02-14.17.59:922][476]PIE: Play in editor start time for /Game/UEDPIE_0_MainMenu 0.677
+[2020.02.02-14.17.59:922][476]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.02.02-14.18.01:198][627]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.02.02-14.18.01:199][627]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-14.18.01:227][627]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.02-14.18.01:228][627]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.02.02-14.18.01:254][627]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-14.18.01:257][627]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2020.02.02-14.18.01:302][632]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.02.02-14.18.03:905][940]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2020.02.02-14.18.06:083][168]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TheCar_pCube1)
+[2020.02.02-14.18.10:020][618]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-14.18.10:155][633]LogActorFactory: Actor Factory created Ground
+[2020.02.02-14.18.10:624][688]LogActorFactory: Actor Factory created Ground
+[2020.02.02-14.18.12:100][858]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-14.18.22:732][117]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-14.18.28:259][764]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2020.02.02-14.18.30:039][963]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground)
+[2020.02.02-14.18.32:516][225]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (TheCar_pCube1)
+[2020.02.02-14.18.33:358][317]LogEditorViewport: Clicking on Actor (CTRL LMB): CameraActor (CameraActor)
+[2020.02.02-14.18.54:838][826]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-14.18.54:977][841]LogActorFactory: Actor Factory created Houses
+[2020.02.02-14.18.56:958][ 76]LogActorFactory: Actor Factory created Houses
+[2020.02.02-14.19.02:926][754]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-14.19.09:190][491]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Houses)
+[2020.02.02-14.19.20:752][868]Cmd: EDIT COPY
+[2020.02.02-14.19.20:935][889]Cmd: EDIT PASTE
+[2020.02.02-14.19.47:596][985]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2020.02.02-14.19.53:798][677]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-14.19.53:881][687]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.02-14.19.53:892][687]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.02.02-14.19.53:892][687]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.02-14.19.53:892][687]PIE: New page: PIE session: MainMenu (2 Feb 2020 14:19:53)
+[2020.02.02-14.19.53:892][687]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMenu
+[2020.02.02-14.19.53:896][687]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003586s)
+[2020.02.02-14.19.53:896][687]LogAIModule: Creating AISystem for world MainMenu
+[2020.02.02-14.19.53:897][687]LogPlayLevel: PIE: World Init took: (0.000563s)
+[2020.02.02-14.19.53:897][687]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenu.MainMenu to /Game/UEDPIE_0_MainMenu.MainMenu (0.004278s)
+[2020.02.02-14.19.53:921][687]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2020.02.02-14.19.53:933][687]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.02-14.19.53:947][687]LogInit: FAudioDevice initialized.
+[2020.02.02-14.19.53:977][687]LogLoad: Game class is 'TwinStickGameMode_C'
+[2020.02.02-14.19.53:979][687]LogWorld: Bringing World /Game/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2020.02.02-14.19.53
+[2020.02.02-14.19.53:979][687]LogWorld: Bringing up level for play took: 0.000735
+[2020.02.02-14.19.53:992][687]PIE: Play in editor start time for /Game/UEDPIE_0_MainMenu 0.748
+[2020.02.02-14.19.53:992][687]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.02.02-14.19.57:416][ 92]LogNet: Browse: /Game/TwinStickBP/Maps/Level1
+[2020.02.02-14.19.57:416][ 92]LogLoad: LoadMap: /Game/TwinStickBP/Maps/Level1
+[2020.02.02-14.19.57:440][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2020.02.02-14.19.57:577][ 92]LogAIModule: Creating AISystem for world Level1
+[2020.02.02-14.19.57:577][ 92]LogLoad: Game class is 'TwinStickGameMode_C'
+[2020.02.02-14.19.57:581][ 92]LogWorld: Bringing World /Game/TwinStickBP/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2020.02.02-14.19.57
+[2020.02.02-14.19.57:581][ 92]LogWorld: Bringing up level for play took: 0.003192
+[2020.02.02-14.19.57:582][ 92]LogLoad: Took 0.165066 seconds to LoadMap(/Game/TwinStickBP/Maps/Level1)
+[2020.02.02-14.20.36:996][818]LogBlueprintUserMessages: [Level1_C_0] Hello
+[2020.02.02-14.20.36:997][818]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-14.20.36:997][818]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(710)]!
+[2020.02.02-14.20.38:914][ 48]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-14.20.38:974][ 55]LogNet: Browse: /Game/MainMenu
+[2020.02.02-14.20.38:974][ 55]LogLoad: LoadMap: /Game/MainMenu
+[2020.02.02-14.20.38:998][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2020.02.02-14.20.38:998][ 55]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMenu
+[2020.02.02-14.20.39:001][ 55]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002575s)
+[2020.02.02-14.20.39:001][ 55]LogAIModule: Creating AISystem for world MainMenu
+[2020.02.02-14.20.39:001][ 55]LogPlayLevel: PIE: World Init took: (0.000429s)
+[2020.02.02-14.20.39:001][ 55]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenu.MainMenu to /Game/UEDPIE_0_MainMenu.MainMenu (0.003132s)
+[2020.02.02-14.20.39:001][ 55]LogLoad: Game class is 'TwinStickGameMode_C'
+[2020.02.02-14.20.39:003][ 55]LogWorld: Bringing World /Game/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2020.02.02-14.20.39
+[2020.02.02-14.20.39:003][ 55]LogWorld: Bringing up level for play took: 0.000761
+[2020.02.02-14.20.39:003][ 55]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.02.02-14.20.39:004][ 55]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [TwinStickPawn_C]
+[2020.02.02-14.20.39:004][ 55]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type TwinStickPawn_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: 0.000000 0.000000 0.000000
+Scale3D: 1.000000 1.000000 1.000000
+
+[2020.02.02-14.20.39:005][ 55]LogLoad: Took 0.030652 seconds to LoadMap(/Game/UEDPIE_0_MainMenu)
+[2020.02.02-14.20.40:159][193]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-14.20.40:159][193]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.02.02-14.20.40:190][193]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.02-14.20.40:190][193]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.02.02-14.20.40:215][193]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.02-14.20.40:217][193]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2020.02.02-14.20.40:260][197]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.02.02-14.20.45:310][796]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.02-14.20.45:415][806]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.02.02-14.20.46:457][806]LogSlate: Window 'Save Content' being destroyed
+[2020.02.02-14.20.46:469][806]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.02-14.20.46:476][806]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu" FILE="M:/Game Jam/GGJ2020/GGJ2020/OngoingRepairs/Content/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.02-14.20.46:503][806]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.02.02-14.20.46:820][806]LogSavePackage: Moving 'M:/Game Jam/GGJ2020/GGJ2020/OngoingRepairs/Saved/MainMenuBEA8F8BA46F532F2852C7AB6C513AA90.tmp' to 'M:/Game Jam/GGJ2020/GGJ2020/OngoingRepairs/Content/MainMenu.umap'
+[2020.02.02-14.20.46:860][806]LogFileHelpers: Saving map 'MainMenu' took 0.385
